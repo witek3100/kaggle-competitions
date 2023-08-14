@@ -9,3 +9,6 @@ Trying to minimize RMSE of house prices for test dataset harnessing the power of
 
 #### Natural Language Processing with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not using gaussian naive bayes, support vector machines and random forest
+
+#### Regression with a Crab Age Dataset
+Predicting crab age
